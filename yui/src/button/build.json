@@ -1,0 +1,10 @@
+{
+  "name": "moodle-atto_blockquote-button",
+  "builds": {
+    "moodle-atto_blockquote-button": {
+      "jsfiles": [
+        "button.js"
+      ]
+    }
+  }
+}
